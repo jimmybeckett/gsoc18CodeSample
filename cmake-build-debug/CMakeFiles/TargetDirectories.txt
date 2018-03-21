@@ -1,0 +1,3 @@
+/Users/jimmybeckett/CLionProjects/uBLAS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jimmybeckett/CLionProjects/uBLAS/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jimmybeckett/CLionProjects/uBLAS/cmake-build-debug/CMakeFiles/uBLAS.dir
