@@ -7,7 +7,7 @@
 
 /**
  * a function that takes 2 types and 2 lambdas and an optional number of times to run,
- * and returns the average amount of time taken by the tF when tF is passed the m1 and m2
+ * and returns the average amount of time taken by the tF when tF is passed m1 and m2
  * @tparam T any type
  * @tparam testF a lambda that takes two T& and performs an operation on them
  * @tparam randF a lambda that takes a T& and randomizes it
